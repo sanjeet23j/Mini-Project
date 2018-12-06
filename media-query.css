@@ -1,0 +1,106 @@
+@media only screen and (max-width: 768px) {
+    .btn-default {
+        width: 100%;
+        margin-right: -9px;
+        margin-left: 0px;
+        border: 1px solid #fff
+    }
+
+    .profile {
+        width: 100%;
+        position: relative;
+        margin-top: 45px;
+    }
+
+    .information {
+
+        margin-top: 20px;
+
+    }
+
+    .profile-wapper {
+        height: auto;
+    }
+
+    .register {
+        width: 90%;
+        margin-left: 17px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        height: auto;
+    }
+
+    .coll {
+        display: block;
+    }
+
+    .main-profile {
+        margin-top: -39px;
+        padding-bottom: 10px;
+    }
+
+    .form-horizontal .form-group,
+    .register-form {
+        width: 100%;
+        margin-left: 0px;
+        padding-left: 0px;
+
+    }
+
+    .slider {
+
+        height: auto;
+
+    }
+    .dropdown{
+    display: none;
+    
+    }
+    .dropdown1{
+    display: block;
+    
+    }
+    #register-btn {
+        width: 100%;
+        margin-left: 0px;
+        padding: 7px 96px;
+
+    }
+
+    #register-btn:focus,
+    #register-btn:active {
+        width: 100%;
+        margin-left: 0px;
+        padding: 7px 96px;
+    }
+
+    .main-index {
+        padding-top: 4%;
+
+    }
+
+    #address {
+        color: red;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: none
+    }
+
+    .education,
+    .container,
+    .skill-paragraph,
+    .passing-year,
+    .info-table {
+        width: 100%;
+    }
+
+
+    .persional-paragraph {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        float: right;
+
+    }
+}
